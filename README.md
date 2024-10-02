@@ -18,7 +18,7 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
-## 3. Create Super Uer (Admin)
+## 3. Create Super User (Admin)
 ```bash
 python manage.py createsuperuser
 ```
